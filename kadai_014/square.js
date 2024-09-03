@@ -1,4 +1,4 @@
 const calculation = (num) => {
-    console.log(num*num);
+    return num*num;
 }
-calculation(12);
+console.log(calculation(11));
